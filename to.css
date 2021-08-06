@@ -1,0 +1,23 @@
+.cheque
+{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+.fiz
+{
+    background-color: #E5E4D7;
+    border: solid 10px tomato;
+    border-radius: 10px;
+}
+.heading
+{
+    font-size: 40px;
+    color: white;
+    border: solid 10px white;
+    border-radius: 10px;
+}
+body
+{
+    background-color: #FFCF79;
+}
